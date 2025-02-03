@@ -21,33 +21,33 @@ export default function Projects() {
             imageSrc={Card1}
             title="MEF - Energy4Future"
             description="Plataforma que conecta locais sem energia elétrica em São Paulo a investidores e empresas interessadas em energia limpa. Promove o desenvolvimento sustentável através de transparência e geolocalização estratégica."
-            ghLink="https://github.com/EduNagado/MEF-Energy4Future"
+            ghLink="https://github.com/EduNagado/Front-GS2"
             demoLink="https://gs-front-navy.vercel.app/"
           />
           <ProjectCard
             imageSrc={Card2}
             title="Site Interativo com IA"
             description="Site interativo desenvolvido em parceria com a Porto Seguro, utilizando Next.js e TypeScript, com IA integrada para auxiliar em questões automotivas e uma experiência responsiva e moderna."
-            ghLink="https://github.com/EduNagado/Site-Interativo"
+            ghLink="https://github.com/EduNagado/Challenge-MEF"
             demoLink="https://mef-smoky.vercel.app/"
           />
           <ProjectCard
             imageSrc={Card3}
             title="E-commerce HIGH"
             description="Loja virtual estilizada com Tailwind CSS, construída com Next.js e TypeScript. Foco em usabilidade, design responsivo e transições fluidas entre as páginas de produtos."
-            ghLink="https://github.com/EduNagado/E-commerce"
+            ghLink=""
           />
           <ProjectCard
             imageSrc={Card4}
             title="Quiz Ambiental"
             description="Quiz criado com HTML, CSS e JavaScript para conscientização ambiental. Ajuda os usuários a entenderem melhor seu impacto ecológico."
-            ghLink="https://github.com/EduNagado/Quiz-Ambiental"
+            ghLink="https://github.com/EduNagado/Front-GS-QUIZ"
           />
           <ProjectCard
             imageSrc={Card5}
             title="Back-end Porto Seguro"
             description="Sistema de back-end que inclui inteligência artificial para diagnóstico e gerenciamento de veículos, integrando APIs e estrutura de dados para eficiência."
-            ghLink="https://github.com/EduNagado/Backend-PortoSeguro"
+            ghLink="https://github.com/EduNagado/MEF-Back-end-"
           />
         </div>
       </div>

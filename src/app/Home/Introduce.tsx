@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { AiFillGithub, AiOutlineYoutube, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-
+import EduHome from "../../../public/EduHome.jpeg"
 import myImg from "../../../public/avatar.svg";
 
 export default function Introduce() {
@@ -42,11 +42,11 @@ export default function Introduce() {
           {/* Avatar */}
           <div className="flex justify-center">
             <Image
-              src={myImg}
+              src={EduHome}
               alt="avatar"
               className="rounded-full shadow-lg"
-              width={200}
-              height={200}
+              width={300}
+              height={300}
             />
           </div>
         </div>
