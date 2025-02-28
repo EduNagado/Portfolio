@@ -10,8 +10,8 @@ export default function Resume() {
     setIsClient(true);
   }, []);
 
-  const imagePath = "/EDUARDO NAGADO DESENVOLVEDOR.png"; 
-  const pdfPath = "/eduardoNagado.pdf"; 
+  const imagePath = "/EDUARDO NAGADO DESENVOLVEDOR.jpg ";
+  const pdfPath = "/eduardoNagado.pdf "; 
 
   return (
     <div className="bg-gray-900 flex flex-col items-center space-y-6 p-4  min-h-screen">

@@ -3,7 +3,6 @@ import Image from "next/image";
 import { AiFillGithub, AiOutlineYoutube, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import EduHome from "../../../public/EduHome.jpeg"
-import myImg from "../../../public/avatar.svg";
 
 export default function Introduce() {
   return (
@@ -40,7 +39,7 @@ export default function Introduce() {
             </p>
           </div>
           {/* Avatar */}
-          <div className="flex justify-center">
+          <div className="flex justify-center md:justify-end">
             <Image
               src={EduHome}
               alt="avatar"
